@@ -4,18 +4,19 @@
 
 The Sales Performance Dashboard is an interactive Tableau dashboard that compares the performance of two selected regions side by side. It enables users to analyze key sales metrics, compare regional performance, and identify top-performing product categories and sub-categories for informed business decisions.
 
- Features
- Compare two regions simultaneously.
-Interactive region selection using dropdown filters.
- KPI cards displaying:
-   Total Sales
-    Average Sales per Order
-    Number of Orders
-   Number of Customers
-    Products Sold
-   Sales by Category visualization.
-Top 5 Sub-Category Sales comparison.
- Clean and user-friendly dashboard layout.
+Features
+
+- Compare two regions simultaneously.
+- Interactive region selection using dropdown filters.
+- KPI cards displaying:
+  - Total Sales
+  - Average Sales per Order
+  - Number of Orders
+  - Number of Customers
+  - Products Sold
+- Sales by Category visualization.
+- Top 5 Sub-Category Sales comparison.
+- Clean and user-friendly dashboard layout.
 
   KPIs
 
@@ -29,23 +30,16 @@ Top 5 Sub-Category Sales comparison.
 
 
 Dashboard Components
- Regional Comparison
+Regional Comparison
 Compare the performance of:
-  Primary Region
- Secondary Region
+- Primary Region
+- Secondary Region
 
-
- Sales by Category
+  Sales by Category
 Displays sales across:
- Furniture
-  Office Supplies
- Technology
+- Furniture
+- Office Supplies
+- Technology
 
-
-Top 5 Sub-Categories
+  Top 5 Sub-Categories
 Highlights the highest-selling product sub-categories for each selected region.
-
-Technologies Used
-  Tableau Desktop
- Dataset
- Sample Superstore Dataset
