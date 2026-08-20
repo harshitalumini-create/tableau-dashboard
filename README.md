@@ -43,3 +43,5 @@ Displays sales across:
 
   Top 5 Sub-Categories
 Highlights the highest-selling product sub-categories for each selected region.
+<img width="1282" height="1042" alt="TABLEAU DASHBOARD" src="https://github.com/user-attachments/assets/546ee489-cbe3-4dc4-87e8-a8e3cd532dad" />
+
