@@ -2,7 +2,11 @@
 
 📊 Sales Performance Dashboard (Tableau)
 
-The Sales Performance Dashboard is an interactive Tableau dashboard that compares the performance of two selected regions side by side. It enables users to analyze key sales metrics, compare regional performance, and identify top-performing product categories and sub-categories for informed business decisions.
+The  dashboard will provide a comprehensive view of sales performance across 
+the two selected regions. Management will be able to compare total sales, average 
+sales per order, the number of customers, the number of orders, and the number 
+of products sold in each region. This will enable the organization to make informed 
+decisions, identify improvement areas, and implement effective sales strategies.
 
 Features
 
