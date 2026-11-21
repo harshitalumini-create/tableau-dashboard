@@ -2,8 +2,8 @@
 
 📊 Sales Performance Dashboard (Tableau)
 
-The  dashboard will provide a comprehensive view of sales performance across 
-the two selected regions. Management will be able to compare total sales, average 
+This dashboard provides a comprehensive comparison of sales performance across two selected regions.
+ Management will be able to compare total sales, average 
 sales per order, the number of customers, the number of orders, and the number 
 of products sold in each region. This will enable the organization to make informed 
 decisions, identify improvement areas, and implement effective sales strategies.
@@ -44,6 +44,13 @@ Displays sales across:
 - Furniture
 - Office Supplies
 - Technology
+
+## Tools & Technologies
+- Tableau
+- Data Visualization
+- Interactive Dashboards
+- KPI Analysis
+- Comparative Analysis
 
   Top 5 Sub-Categories
 Highlights the highest-selling product sub-categories for each selected region.
